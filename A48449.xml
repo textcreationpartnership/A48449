@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To every individuall member of the Honorable House of Commons, the humble remonstrance of George Lilburn, Esquire</title>
+            <author>Lilburne, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48449</idno>
+            <idno type="STC">Wing L2077A</idno>
+            <idno type="STC">ESTC R9203</idno>
+            <idno type="EEBO-CITATION">13111086</idno>
+            <idno type="OCLC">ocm 13111086</idno>
+            <idno type="VID">97627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To every individuall member of the Honorable House of Commons, the humble remonstrance of George Lilburn, Esquire</title>
+                  <author>Lilburne, George.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing and Huntington Library attribute work to George Lilburne.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97627:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb n="1" facs="tcp:97627:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>To every individuall Member of the honorable Houſe of <hi>COMMONS.</hi>
+            </head>
+            <head>The humble Remonſtrance of <hi>George Lilburn,</hi> Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I have ſtudied nothing more then to be ſer<g ref="char:EOLhyphen"/>viceable in my generation, by employing all my power to preſerve the Nations intereſt, (as an evidence wherof in the worſt of times I was not only an oppoſer, but one that ſuf<g ref="char:EOLhyphen"/>fered both in perſon and eſtate, for oppoſing Ship-money, Projects, Biſhops, &amp;c.) ſo it could never enter into my thoughts, that I who had been ſuch an eminent aſſer<g ref="char:EOLhyphen"/>tor of the priviledges of Parliament, and Liberties of the peo<g ref="char:EOLhyphen"/>ple, ſhould have been (as now) neceſſitated to take this courſe to manifeſt my integrity, and blow off that duſt which hath lately been caſt upon me by Mr. <hi>John Blackston,</hi> a ſup<g ref="char:EOLhyphen"/>poſed member of your Houſe, and ſome other his accomplices, whoſe ſlanderous ſuggeſtions, backt with his power and inte<g ref="char:EOLhyphen"/>reſt, ſeemingly hath gained ſo much credit, even with the beſt men, (who have been Strangers to my actions, (ſave onely by report) that I find it a very hard matter, by private diſcourſe to remove that prejudice by many conceived againſt men. To the end therefore that the whole Truth may be made mani<g ref="char:EOLhyphen"/>feſt, and that you may not be guided by report, I have been bold in this way to repreſent unto you the true ſtate of my caſe, together with the originall riſe and growth of Mr. <hi>John Blackstons</hi> enmity, in which I ſhall not deviate in the leaſt from the truth; neither ſhall it be in his power to contradict me in a ſyllable. Truth fears no colours, nor ſeeks corners. I
+<pb n="2" facs="tcp:97627:2"/>
+               <!-- PDF PAGE 23 -->
+ſhall declare it, and leave you to judge righteous judgment between my accuſers and me.</p>
+            <floatingText xml:lang="eng" type="deposition">
+               <body>
+                  <head>The Copie of <hi>Colonel Tho. Midfords</hi> Certificate, with others given under their hands.</head>
+                  <p>THat about July, <hi>1642. Thomas Midford</hi> and <hi>George Lilburn</hi> went on purpoſe to the Houſe of Sir Henry Vane the elder, neer Charing-Croſs, and there acquainted him of the frequent meetings of the Papiſts and their adherents in the County of Durham, and that they did not only gather together moſt of the prime Horſes of the ſaid County, but did exerciſe them in Arms, and trained the ſaid Horſe, to the diſcourage<g ref="char:EOLhyphen"/>ment of all the true-hearted Proteſtants of the ſaid County: And that the Sea-ports of the ſaid County were fit to be taken care of, which the ſaid Sir Henry Vane promiſed to take timely care of, making ſhew that he intended ſhortly to goe down into the ſaid County: In the mean time, deſired the ſaid George Lil<g ref="char:EOLhyphen"/>burn, and the ſaid Thomas Midford to go to the Deputy-Liev<g ref="char:EOLhyphen"/>tenants and acquaint them with the aforeſaid information, and to tell them from him, that he could not then write to them con<g ref="char:EOLhyphen"/>cerning the ſame, but bid them take care thereof, till he gave further Order.</p>
+                  <p>The ſaid Thomas Midford, about the end of the ſaid moneth, coming into the ſaid County, went to Durham, and did acquaint Sir Wil. Darcy, being then high Sheriff of the ſaid County, Sir John Conyers, and others at John Hals houſe in Durham, of the ſame, who returned the ſaid Midford no other anſwer, but <hi>wel, wel,</hi> and ſeemed to make no great matter thereof.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>28</hi> June, <hi>1642.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Tho. Midford</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Suddenly after I returned from <hi>London</hi> into the Country, where I remained till about the end of <hi>Auguſt</hi> 1642, where, at the generall Aſſize held for the County of <hi>Durham,</hi> being a Juſtice of Peace for the ſaid County, I was indicted upon the Statute of Recuſancy for not coming to common Prayer, and put of the Bench, and turned out of Commiſſion by Judge <hi>Heath.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:97627:2"/>
+               <!-- PDF PAGE 23 -->Sodainly after, the Earl of <hi>Newcaſtle</hi> beginning to Array men) I was invited by ſeverall Northern Gentlemen, <hi>viz.</hi> Mr. <hi>George Gray,</hi> Mr. <hi>Henry Lever,</hi> Mr. <hi>Robert Carre, &amp;c.</hi> to go into <hi>Scotland,</hi> to try if they could obtain force to op<g ref="char:EOLhyphen"/>poſe the Earl of <hi>Newcaſtle,</hi> and accordingly I with ſeverall other Gentlemen did wait upon Mr. <hi>John Pickering</hi> the States Agent reſident at <hi>Edenborough,</hi> and informed him of the ſtate of the Northern Counties, which he by Letter intimated to the Parliament, but received no anſwer thereto.</p>
+            <p>Soon after I returned to <hi>Berwick,</hi> and thence to <hi>Anwick,</hi> where I received a Letter from my Wife, intimating, That if I would come home and be quiet, Sir <hi>William Lampton</hi> had promiſed to protect me.</p>
+            <p>But comming home, I found that Capt. <hi>Sawkell</hi> was orde<g ref="char:EOLhyphen"/>red to ſeiz upon my houſe and goods, by order of the Earl of <hi>Newcaſtle;</hi> whereupon I was neceſſitated to go to the ſaid Earl at <hi>Newcaſtle,</hi> to try if I could prevent the ſaid ſei<g ref="char:EOLhyphen"/>zure; where being come, I was ſeized on by Baron <hi>Lidall</hi> and others, and hurried to and fro, and put in danger of my life; but by the mercy of God, &amp; through the favor of M. <hi>Francis Carnaby,</hi> at length I eſcaped &amp; got home to my houſe, where I remained privately for about a fortnight, at which time there was to be a meeting at <hi>Durham</hi> by ſeverall Gentlemen of the Country, who endevoured to put the Commiſſion of Array in execution; to which meeting I was invited by ſe<g ref="char:EOLhyphen"/>verall wel-affected Gentlemen, <hi>viz.</hi> Captain <hi>Fulthorp,</hi> and Mr. <hi>Robert Hutton;</hi> to the end, that in the face of the Coun<g ref="char:EOLhyphen"/>try we might oppoſe the ſaid Commiſſion which accordingly we did, firſt with words, ſhewing the illegality thereof, af<g ref="char:EOLhyphen"/>terward with ſwords and ſtaves for ſome ſpace, till being over-powered with armed men, I and the reſt were forced to fly for our lives from <hi>Durham.</hi> From which time, there were many endevors to take me priſoner; for prevention whereof, I removed to <hi>Stockton,</hi> and going from <hi>Stockton</hi> I heard that Captain <hi>Hotham</hi> was come to <hi>Darneton;</hi> ſo I endevoured to get thither, but in my journey was taken, (having only one man) it being <hi>November</hi> 11. 1642. and brought to <hi>Durham</hi> Gaole; and my Horſes, weapons and cloaths taken from me,
+<pb n="4" facs="tcp:97627:3"/>
+               <!-- PDF PAGE 24 -->
+where, after many invitations, ſolicitations and threats to in<g ref="char:EOLhyphen"/>duce me to join and contribute, (all which I refuſed) I was carried to <hi>York</hi> pinioned, on foot, through water and dirt, where I lay in great miſery for the ſpace of 14 Months, in which time I was often ſolicited by Mr. <hi>Ralph Lambton</hi> but to ſend a horſe, or give ſome ſmal contrbution to the maintenance the Earl of <hi>Newcaſtles</hi> Army: All which proffers were ſcorned and refuſed, as will be atteſted by the ſaid <hi>Ralph Lamb<g ref="char:EOLhyphen"/>ton,</hi> and others.</p>
+            <p>That being after fourteen months impriſonment exchanged by the Parliament for one Captain <hi>Cock</hi> priſoner at <hi>Dover</hi> Caſtle, the Parliament were pleaſed by their Ordinance of <hi>April</hi> 1 1643, together with others, to appoint me to be one of the Committee for Sequeſtrations in the ſaid County; the faithfull diſcharge of which Truſt, my moſt malicious adver<g ref="char:EOLhyphen"/>ſaries (I am confident) cannot queſtion.</p>
+            <p>That about <hi>Auguſt</hi> 1647, <hi>John Huſbands,</hi> the States Agent for Sequeſtrations, preferred a Charge againſt one <hi>Thomas Shadford</hi> (Mr. <hi>Blackston</hi>'s Brother in Law) a member of the ſaid Committee, and produced me, with ſeverall others, for the proof of the ſaid Charge.</p>
+            <q>The particulars of which Charge, becauſe it is now depending before the honourable Committee for the Northern Aſſo<g ref="char:EOLhyphen"/>ciation to be tried, I ſhall forbear to mention; although it be apparent, that my appearing againſt Mr. <hi>Black<g ref="char:EOLhyphen"/>ſtons</hi> Brother in law (Mr. <hi>Shadford</hi>) hath been one of the originall cauſes of Mr. <hi>Blackſtons</hi> envie, and my preſent trouble. <hi>For,</hi>
+            </q>
+            <p>Soon after the exhibition and proof of the ſaid Charge, Mr. <hi>Shadford,</hi> in ſtead of anſwering the ſaid Charge, preferred a Charge againſt me to the ſame Committee, but proved ne<g ref="char:EOLhyphen"/>ver a word of it; which Charge I anſwered the ſame month, and often ſolicited to have a fair trial, but never could obtain it: the cauſe of which, together with the reaſon of Mr. <hi>Black<g ref="char:EOLhyphen"/>ſton</hi>'s envie, ſhall more at large appear.</p>
+            <p>Mr. <hi>John Blackston</hi> having obtain'd an Order from the Houſe of Commons for the ſettling of three orthodox Mini<g ref="char:EOLhyphen"/>ſters, in ſtead whereof he would have ſetled three malignant
+<pb n="5" facs="tcp:97627:3"/>
+               <!-- PDF PAGE 24 -->
+diſaffected Prieſts; <hi>viz. Lee, Maſon,</hi> and a Scotiſhman; the doing whereof I oppoſed and prevented for that time, (there being good cauſe for the ſame:) however, Mr. <hi>John Black<g ref="char:EOLhyphen"/>ſton</hi> ſoon after made a party in the C<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>itee in my abſence, and placed them, and ſetled upon <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em 120 pounds <hi>per annum.</hi>
+            </p>
+            <p>That when the Charge againſt Mr. <hi>Shadford</hi> was exhibited (in which I did, I confeſs, eminently appear, being convinced in conſcience of the truth thereof;) and that Mr. <hi>Shadford</hi> had alſo brought a Charge againſt me, (I will not ſay, by Maſter <hi>Blackston</hi>'s advice, although it be more then probable,) Mr. <hi>John Blackston</hi> by his power in the Committee cauſed an Or<g ref="char:EOLhyphen"/>der to be entred by the Clerk of the Committee to make all the proceedings concerning the ſaid two Charges, null; and like<g ref="char:EOLhyphen"/>wiſe commanded the Clerk that he ſhould not give copies thereof to any, as by the ſaid Order may appear.</p>
+            <p>That Mr. <hi>Blackston</hi> having got himſelf into the poſſeſſion of the Lordſhip of <hi>Newton,</hi> which was part of the eſtate of <hi>Toby Blackston</hi> his Brother, a notorious Delinquent; which eſtate was protected by the ſaid Mr. <hi>John Blackston,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding it was ſequeſtrable, and endeavoured to be ſequeſtred by <hi>John Huſbands</hi> and my ſelf: which eſtate lay nigh unto <hi>Frankland</hi> and <hi>Frankland</hi> Wood, part of the Lands belonging to the Biſhop of <hi>Durham,</hi> which Land was at that time under the ſurveigh of Mr. <hi>George Grey,</hi> Mr. <hi>Thomas Sanders,</hi> Mr. <hi>John Huſbands,</hi> and my ſelf, who were choſen Surveighors of thoſe Lands by the Truſtees for the ſale of Biſhops Lands. We (ha<g ref="char:EOLhyphen"/>ving taken a view our ſelves, and having called a Jury of fif<g ref="char:EOLhyphen"/>teen Gentlemen and Yeomen of the ſaid County, who with us ſurveighed the ſame upon oath, and examined all Writings and Records concerning the ſaid Mannor) were drawing up the ſurveigh to make return thereof to the Truſtees and Con<g ref="char:EOLhyphen"/>tractors; at which time Miſtris <hi>Blackston,</hi> in the name of her Husband, came unto me, deſiring my favour, that I would be a means that it might be certified in the Surveigh, that the Mannor of <hi>Newton</hi> formerly had right for peranage, and ma<g ref="char:EOLhyphen"/>ſtage for hogs, and for houſe-boot, hedge-boot, and free-boot for the houſe, To which I replyed, That either ſhe muſt pro<g ref="char:EOLhyphen"/>duce
+<pb n="6" facs="tcp:97627:4"/>
+               <!-- PDF PAGE 25 -->
+ſome evidence or writing for the title, or elſe the Sur<g ref="char:EOLhyphen"/>veighors could not make any ſuch return: notwithſtanding, ſhe did once or twice ſollicite to the ſame purpoſe; and being told we could not do ſuch an unjuſt act, ſhe gave many up<g ref="char:EOLhyphen"/>braiding Speeche<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the reſt of the Surveighours: in<g ref="char:EOLhyphen"/>ſomuch, that w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forced to leave her alone in the room.</p>
+            <p>Soon after we had returned the Surveigh of the ſaid Man<g ref="char:EOLhyphen"/>nor of <hi>Cheſter,</hi> under our hands and ſeals, to the Truſtees one part, and to the Contractors another, as juſt as ever was, as by our Oaths we are ready to aver, Mr. <hi>John Blackſton</hi> took out a Particular, and purchaſed <hi>Durham</hi> Caſtle, and divers of of thoſe Woods and Lands, to the value of about 5000 pound; after the purchaſe of which, the ſaid Mr. <hi>John Blackſton,</hi> or ſome other for him, dealt with one <hi>Edward Colſton</hi> (who was a Surveighor, but never ſurveighed any of thoſe Lands) together with the aforeſaid Mr. <hi>Sanders,</hi> to make him ſome repriſals for Pannage and Maſtage, and many other things, which ought not to be done, nor could be found by the Jury to be incident to any of the ſaid Lands: by which he got an abatement of a thouſand and odde pounds more then what was allowed by the former Jury, as by the repriſals doth ap<g ref="char:EOLhyphen"/>pear. And becauſe there was an Ordinance of Parliament that no certificate ſhould be valid, unleſſe it were under the hands of three Surveighours, the hand of one Mr. <hi>John Dun<g ref="char:EOLhyphen"/>calfe</hi> was counterfeited to the ſaid certificate, who then was out of the County, as he hath before witneſſe affirmed; whereby the State was cheated of above a thouſand pounds.</p>
+            <p>Now becauſe I have from time to time diſcovered the un<g ref="char:EOLhyphen"/>juſt and indirect dealings of the ſaid Mr. <hi>John Blackston</hi> and his accomplices, he hath from time to time endeavoured by Scandalous informations to the Parliament, and ſeverall Members thereof, to blaſt my repute by terming me a delin<g ref="char:EOLhyphen"/>quent, &amp;c. the very thought whereof I abhorre, and deſire no other favour for all my ſervice, but to obtain a ſpeedy and fair tryall, by which I doubt not but that their envie and my innocency will plainly appear.</p>
+            <pb n="7" facs="tcp:97627:4"/>
+            <!-- PDF PAGE 25 -->
+            <p>To conclude,</p>
+            <p>I deſire you to obſerve in the firſt place, that theſe crimes I am accuſed of are crimes of almoſt ſeven years ſtanding; and if true, by them concealed, and I ſuffered to act with them by authority of Parliament, which they ought not to have ſuffe<g ref="char:EOLhyphen"/>red, but rather to have ſequeſtred me; but it ſeems when they found me oppoſite to their intereſt, and themſelves like to be brought upon the ſtage, they ſought for matter againſt me, and finding none, they were reſolved they would frame ſomething that they might found a ſlander upon, hoping thereby to prevent their further proſecution.</p>
+            <p>Secondly, I pray obſerve that Mr. <hi>Shadfords</hi> charge was ex<g ref="char:EOLhyphen"/>hibited, and the greateſt part of it proved about <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> 1647, but yet in all this time he hath not anſwered thereto, and that my charge was exhibited about <hi>September,</hi> 1647, and answered the ſame mouth, but never a word proved to this very day, although I have from time to time ſo<g ref="char:EOLhyphen"/>licited to obtain a legall hearing, that by the law I might be juſtified or condemned.</p>
+            <p>Thirdly, I appeale to all rationall Gentlemen to be judges in this caſe, whether it be not a ſufficient ground for me to except againſt Mr. <hi>John Blackstons</hi> being one of my Judges, being brother in law to my accuſer, and a perſon who from time to time harh privately and publickly by ſlanderous ſug<g ref="char:EOLhyphen"/>geſtions endeavoured to deſtroy my repute, by which actions he hath apparently prejudged me a Delinquent with<g ref="char:EOLhyphen"/>out evidence or hearing, as is known to ſeverall Members of your Houſe; by which means he hath (being indeed a par<g ref="char:EOLhyphen"/>ty intereſted in the accuſation) made himſelf incapable of being a Judge, no man being by Law or reaſon to be Judge in his own caſe.</p>
+            <p>Nor do I this as fearing the Juſtice of my cauſe (for were my worſt enemies my Judges herein, I could not feare) only re<g ref="char:EOLhyphen"/>ſerving unto my ſelf the benefit the law allowes me as an Eng<g ref="char:EOLhyphen"/>liſhman. For my part (although I ſhall be carefull to prevent a ſurprize, yet) not being conſcious of guilt, I am not care<g ref="char:EOLhyphen"/>full what to anſwer; truth needs no Sophiſtry, nor fidelity friends or ſupporters, I fear not the Juſtice of my Judges, and
+<pb n="8" facs="tcp:97627:5"/>
+               <!-- PDF PAGE 26 -->
+being innocent I ſhall not need their mercy; Tis fit for Tray<g ref="char:EOLhyphen"/>tors and perfidious perſons (not thoſe whoſe deeds are done in the day) to fear a tryall, and flatter a Judge. According to the utmoſt of my power I have been upright, and having betrothed the intereſt of the Nation; and in all things done unto others, as I would they ſhould doe unto me; am bold to ſay my innocency and fidelity will ſhine maugre the cloudy calumiations of Mr. <hi>Blackston</hi> and his accomplices.</p>
+            <p>Sir, The nations intereſt hath engaged me on the one ſide, and my reputation (which to an Engliſhman ſhould be dear<g ref="char:EOLhyphen"/>er then life) hath engaged me on the other, for the preſer<g ref="char:EOLhyphen"/>vation whereof I am reſolved to hazzard all my poſſibilities, intereſt and relations; In order whereunto in this way I preſſe to obtain a fair and legall Tryall, that Juſtice may take place, and the truth be manifeſt, which is the only deſire of.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 18. 1649.</date> 
+                  <hi>Being the promiſed year of freedom.</hi>
+               </dateline>
+               <signed>
+                  <hi>George Lilburn</hi> 
+                  <abbr>Eſq</abbr>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
